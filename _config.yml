@@ -83,11 +83,11 @@ author:
   name             : "Zohre Karimi"
   avatar           : "profile.png"
   bio              : "Research Assistant, University of Utah"
-  location         : "50 Central Campus Dr., Room 2407, Salt Lake City, UT 84112"
+  location: "50 Central Campus Dr., Room 2407, Salt Lake City, UT 84112"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #example: "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : zohre.karimi@utah.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

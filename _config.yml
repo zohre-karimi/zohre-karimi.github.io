@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zohre Karimi"
 title_separator          : "-"
-name                     : &name "Hi, I'm Zohre"
+name                     : &name "Hi, I'm Zohre!"
 description              : &description "Ph.D. student of the University of Utah."
 url                      : https://zohre-karimi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zohre Karimi"
   avatar           : "profile.png"
-  bio              : "Research Assistant at University of Utah"
-  location         : "US"
+  bio              : "Research Assistant, University of Utah"
+  location         : "50 Central Campus Dr., Room 2407,Salt Lake City, UT 84112"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #example: "http://yourfullgooglescholarurl.com"
